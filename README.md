@@ -1,7 +1,6 @@
-# DC3: A learning method for optimization with hard constraints
-
+# Constraint Boundary Wandering Framework: Enhancing Constrained Optimization with Deep Neural Networks
 This repository is by 
-[Shuang Wu],
+`Shuang Wu`,
 [Shixiang Chen](https://chenshixiang.github.io/),
 and [Leifei Zhang](https://dblp.org/pid/28/10770.html)
 and contains the [PyTorch](https://pytorch.org) source code to
