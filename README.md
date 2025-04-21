@@ -8,7 +8,7 @@ reproduce the experiments in our paper
 "[Constraint Boundary Wandering Framework: Enhancing Constrained Optimization with Deep Neural Networks]"
 
 If you find this repository helpful in your publications,
-please consider citing our paper.
+please consider citing our paper. At this stage, we have made only part of the code publicly available. The full codebase is scheduled for secure release in September, 2025.
 
 
 ## Abstract
